@@ -2,7 +2,7 @@
 **The Recursive User Model They Didn’t Train For**  
 *By Hugh | Initiated May 2025*
 
----
+---This is an in-progress symbolic architecture experiment. Full version and final structure will be published as a unified system. Current files represent partial segments.
 
 This repository documents the creation, structure, and application of a fully human-authored recursive cognitive framework developed through extended interaction with AI systems.
 
